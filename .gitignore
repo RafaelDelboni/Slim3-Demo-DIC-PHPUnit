@@ -1,0 +1,7 @@
+composer.phar
+.DS_Store
+Thumbs.db
+
+/vendor/
+/logs/*
+!/logs/README.md
